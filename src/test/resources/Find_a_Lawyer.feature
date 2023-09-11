@@ -8,3 +8,5 @@ Feature: Find a Lawyer page
     Given a people page
     When I type anything in the input field
     Then the auto suggestion works
+
+#  Scenario: user can select articles
